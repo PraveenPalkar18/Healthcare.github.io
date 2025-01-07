@@ -4,63 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Praveen Palkar Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        .highlight {
-            color: #e74c3c;
-            font-weight: bold;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .about-text p {
-            margin: 10px 0;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        dl {
-            margin: 20px 0;
-        }
-        dt {
-            font-weight: bold;
-        }
-        dd {
-            margin: 0 0 10px 20px;
-        }
-        blockquote {
-            font-style: italic;
-            color: #7f8c8d;
-            margin: 20px 0;
-            padding-left: 20px;
-            border-left: 5px solid #3498db;
-        }
-    </style>
 </head>
 <body>
-    <div class="container">
+    <div>
         <h1>Welcome to My Project</h1>
 
         <img src="Healthcare.png" alt="Patient Symptom Analysis and Self Diagnosis">
 
-        <div class="description">
+        <div>
             <h2>Patient Symptom Analysis and Self Diagnosis</h2>
             <p>This project aims to assist patients in identifying diseases based on their symptoms using advanced algorithms and provide tailored healthcare solutions. It features modules for:</p>
             <ul>
@@ -73,7 +24,7 @@
         </div>
 
         <h2>Portfolio</h2>
-        <h3>Hello, I'm <span class="highlight">Praveen Palkar</span> 👋</h3>
+        <h3>Hello, I'm Praveen Palkar 👋</h3>
         <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
 
         <h2>🛠 Projects</h2>
@@ -117,11 +68,11 @@
             “The only way to do great work is to love what you do.” – Steve Jobs
         </blockquote>
 
-        <div class="about">
+        <div>
             <h1>About Me</h1>
-            <div class="about-text">
+            <div>
                 <p>Hey, this is me!</p>
-                <p>Major of <span class="highlight">Computer Science</span> at KLE TECH!</p>
+                <p>Major of Computer Science at KLE TECH!</p>
             </div>
         </div>
     </div>
