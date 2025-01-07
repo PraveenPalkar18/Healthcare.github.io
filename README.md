@@ -1,47 +1,9 @@
+# Welcome to My Project
 
+![Patient Symptom Analysis and Self diagnosis ](Healthcare.png)
 
-
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-   
-</head>
-<body>
-    <h1>Welcome to My Project</h1>
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<body>
-    <div class="container">
-        <img src="Healthcare.png" alt="Patient Symptom Analysis and Self Diagnosis ">
-        <div class="description">
-            <h2>This project aims to assist patients in identifying diseases based on their symptoms using advanced algorithms and provide tailored healthcare solutions. It features modules for processing ambiguous symptom inputs, conducting targeted medical assessments, suggesting the shortest route to healthcare facilities, and offering prescriptions and precautions. The system enhances healthcare accessibility and improves patient outcomes through efficient decision-making and automation..</p>
-        </div>
-    </div>
-</body>
-</html>
-
-
-   
-
-# Healthcare.github.io
-## Portfolio
-
-### Hello, I'm [Praveen Palkar]👋
-
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
-
-## 🛠 Projects
-- *Project 1:
-- Project: Patient Symptom Analysis and Self Diagnosis 
+## Patient Symptom Analysis and Self diagnosis Project 
+ Project: Patient Symptom Analysis and Self Diagnosis 
 
 1st Module: Ambiguous Symptom Entry
 Patients describe their symptoms using natural language, where the system processes partial or unclear inputs to identify possible symptoms using advanced matching algorithms (e.g., substring or KMP).
@@ -54,54 +16,49 @@ Once a disease is identified, the system calculates the shortest path to the nea
 
 4th Module: Prescription and Precaution
 After confirming the disease, the system provides a tailored prescription, lifestyle precautions, and advice, ensuring the patient takes immediate steps for recovery.
-  
+
+
+     
+# wastemanagement.github.io  
+
+## Portfolio
+
+### Hello, Srujan Kapale 👋
+
+I am passionate about technology and problem-solving. Here's a glimpse of my work:
+
+## 🛠 Projects
+- Project 1: The Patient Symptom Analysis and Self Diagnosis system is a comprehensive tool designed to enhance the healthcare experience for individuals. It intelligently processes vague or unclear symptom inputs, narrows down diagnoses through targeted questions, ensures quick access to medical facilities, and provides personalized treatment recommendations. With these four integrated modules, the system aims to provide timely and accurate healthcare guidance, empowering patients to make informed decisions while seeking medical attention.
 
 
 
 ## 🚀 Skills
-- C++, Python, JavaScript,C,HTML
+- C++, Python, JavaScript
 - Data Structures and Algorithms
-- Web Development (DBMS)
+- Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/Srujan-2)
+- [GitHub](https://github.com/PraveenPalkar18)
 
-## Portfolio Topic : Waste Management and Recycling Automation
+
+## Portfolio Topic
 
 <dl>
-<dt>Course Name:DAA LAB</dt>
-<dd>Data Structure And Algorithmic </dd>
-<dt>Course Code:24ECSP205</dt>
-<dd>Course Code Placeholder</dd>
+<dt>Course Name</dt>
+<dd>Algorithmic Lab</dd>
+<dt>Course Code</dt>
+<dd>24ECSP205</dd>
 <dt>Name</dt>
-<dd>Praveen Palkar</dd>
+<dd>Praveen Bahublai Palkar</dd>
 <dt>SRN</dt>
-<dd>Your SRN:02fe23bcs182</dd>
-<dt>Course Instructor:Prof. Vaishali Y. Parab and Ms.Manasi N</dt>
-<dd>Instructor Name Placeholder:</dd>
+<dd>02FE23BCS053</dd>
+<dt>Course Instructor</dt>
+<dd>Prof.Vaishali Parab</dd>
 <dt>University</dt>
-<dd>Your University Name:KLE TECHNOLOGICAL UNIVERSITY</dd>
-<dt>Waste Management and Recycling Automation/COMPUTER SCIENCE</dt>
-<dd>BE </dd>
+<dd>KLE Technological University</dd>
+<dt>Patient Symptom Analysis and Self Diagnosis/COMPUTER SCIENCE</dt>
 </dl>
-
 
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   
-</head>
-<body>
-    <div class="container">
-        <a href="about.md" style="display: block; text-align: center; font-size: 1.5em; color: #3498db;">[About Me]</a>
-        <h1>About Me</h1>
-        <div class="about-text">
-            <p>Hey, this is me!</p>
-            <p>Major of <span class="highlight">Computer Science</span> at KLE TECH!</p>
-        </div>
-    </div>
-</body>
-</html>       
