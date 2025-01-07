@@ -21,7 +21,7 @@
     <div class="container">
         <img src="Healthcare.png" alt="Patient Symptom Analysis and Self Diagnosis ">
         <div class="description">
-            <h2>(need too write ).</p>
+            <h2>This project aims to assist patients in identifying diseases based on their symptoms using advanced algorithms and provide tailored healthcare solutions. It features modules for processing ambiguous symptom inputs, conducting targeted medical assessments, suggesting the shortest route to healthcare facilities, and offering prescriptions and precautions. The system enhances healthcare accessibility and improves patient outcomes through efficient decision-making and automation..</p>
         </div>
     </div>
 </body>
