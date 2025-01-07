@@ -40,6 +40,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## 🛠 Projects
 - *Project 1:
 - Project: Patient Symptom Analysis and Self Diagnosis 
+
 1st Module: Ambiguous Symptom Entry
 Patients describe their symptoms using natural language, where the system processes partial or unclear inputs to identify possible symptoms using advanced matching algorithms (e.g., substring or KMP).
 
