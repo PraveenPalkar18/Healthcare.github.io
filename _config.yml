@@ -1,3 +1,3 @@
 title: Patient Symptom analysis and Diagnosis
-description: 
+description: This project aims to assist patients in identifying diseases based on their symptoms using advanced algorithms and provide tailored healthcare solutions. It features modules for processing ambiguous symptom inputs, conducting targeted medical assessments, suggesting the shortest route to healthcare facilities, and offering prescriptions and precautions. The system enhances healthcare accessibility and improves patient outcomes through efficient decision-making and automation.
 theme: jekyll-theme-cayman 
