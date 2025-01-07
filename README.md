@@ -6,24 +6,24 @@
  Project: Patient Symptom Analysis and Self Diagnosis 
 
 1st Module: Ambiguous Symptom Entry
-Patients describe their symptoms using natural language, where the system processes partial or unclear inputs to identify possible symptoms using advanced matching algorithms (e.g., substring or KMP).
+Patients describe their symptoms using natural language, where the system processes partial or unclear inputs to identify possible symptoms using advanced matching algorithms (e.g., levenstindistance  or KMP).
 
 2nd Module: Limited Medical Awareness
-Based on the identified symptoms, the system asks targeted yes/no questions to narrow down possibilities and predict the most likely disease using decision analysis techniques.
+Based on the identified symptoms, the system asks targeted yes/no questions to narrow down possibilities and predict the most likely disease using decision analysis techniques.(Desicion tree)
 
 3rd Module: Shortest Path to Medical Facility
-Once a disease is identified, the system calculates the shortest path to the nearest medical facility using graph-based algorithms like Dijkstra's for quick access to care.
+Once a disease is identified, the system calculates the shortest path to the nearest medical facility using graph-based algorithms like Dijkstra's for quick access to care.(Steps of Dijkstra’s Algorithm)
 
 4th Module: Prescription and Precaution
-After confirming the disease, the system provides a tailored prescription, lifestyle precautions, and advice, ensuring the patient takes immediate steps for recovery.
+After confirming the disease, the system provides a tailored prescription, lifestyle precautions, and advice, ensuring the patient takes immediate steps for recovery.(Brute force string matching )
 
 
      
-# wastemanagement.github.io  
+#.github.io  
 
 ## Portfolio
 
-### Hello, Srujan Kapale 👋
+### Hello, Praveen Palkar 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -33,9 +33,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 
 ## 🚀 Skills
-- C++, Python, JavaScript
+- C++, Python, C
 - Data Structures and Algorithms
-- Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/PraveenPalkar18)
