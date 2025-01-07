@@ -1,79 +1,107 @@
+
+
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Praveen Palkar Portfolio</title>
+  
+   
 </head>
 <body>
-    <div>
-        <h1>Welcome to My Project</h1>
+    <h1>Welcome to My Project</h1>
+</body>
+</html>
 
-        <img src="Healthcare.png" alt="Patient Symptom Analysis and Self Diagnosis">
 
-        <div>
-            <h2>Patient Symptom Analysis and Self Diagnosis</h2>
-            <p>This project aims to assist patients in identifying diseases based on their symptoms using advanced algorithms and provide tailored healthcare solutions. It features modules for:</p>
-            <ul>
-                <li>Processing ambiguous symptom inputs</li>
-                <li>Conducting targeted medical assessments</li>
-                <li>Suggesting the shortest route to healthcare facilities</li>
-                <li>Offering prescriptions and precautions</li>
-            </ul>
-            <p>The system enhances healthcare accessibility and improves patient outcomes through efficient decision-making and automation.</p>
-        </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-        <h2>Portfolio</h2>
-        <h3>Hello, I'm Praveen Palkar 👋</h3>
-        <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
-
-        <h2>🛠 Projects</h2>
-        <h3>Project: Patient Symptom Analysis and Self Diagnosis</h3>
-        <ul>
-            <li><strong>1st Module: Ambiguous Symptom Entry</strong><br>Processes partial or unclear inputs using advanced matching algorithms like substring or KMP.</li>
-            <li><strong>2nd Module: Limited Medical Awareness</strong><br>Asks targeted yes/no questions to narrow down possibilities and predict diseases using decision analysis techniques.</li>
-            <li><strong>3rd Module: Shortest Path to Medical Facility</strong><br>Calculates the shortest route to the nearest medical facility using graph-based algorithms like Dijkstra's.</li>
-            <li><strong>4th Module: Prescription and Precaution</strong><br>Provides tailored prescriptions, lifestyle precautions, and advice for recovery.</li>
-        </ul>
-
-        <h2>🚀 Skills</h2>
-        <ul>
-            <li>C++, Python, JavaScript, C, HTML</li>
-            <li>Data Structures and Algorithms</li>
-            <li>Web Development (DBMS)</li>
-        </ul>
-
-        <h2>🌐 Find Me Online</h2>
-        <p><a href="https://github.com/Srujan-2">GitHub</a></p>
-
-        <h2>Portfolio Topic: Waste Management and Recycling Automation</h2>
-        <dl>
-            <dt>Course Name</dt>
-            <dd>DAA LAB</dd>
-            <dt>Course Code</dt>
-            <dd>24ECSP205</dd>
-            <dt>Name</dt>
-            <dd>Praveen Palkar</dd>
-            <dt>SRN</dt>
-            <dd>02fe23bcs182</dd>
-            <dt>Course Instructor</dt>
-            <dd>Prof. Vaishali Y. Parab and Ms. Manasi N</dd>
-            <dt>University</dt>
-            <dd>KLE Technological University</dd>
-            <dt>Stream</dt>
-            <dd>Computer Science - BE</dd>
-        </dl>
-
-        <blockquote>
-            “The only way to do great work is to love what you do.” – Steve Jobs
-        </blockquote>
-
-        <div>
-            <h1>About Me</h1>
-            <div>
-                <p>Hey, this is me!</p>
-                <p>Major of Computer Science at KLE TECH!</p>
-            </div>
+<body>
+    <div class="container">
+        <img src="Healthcare.png" alt="Patient Symptom Analysis and Self Diagnosis ">
+        <div class="description">
+            <h2>This project aims to assist patients in identifying diseases based on their symptoms using advanced algorithms and provide tailored healthcare solutions. It features modules for processing ambiguous symptom inputs, conducting targeted medical assessments, suggesting the shortest route to healthcare facilities, and offering prescriptions and precautions. The system enhances healthcare accessibility and improves patient outcomes through efficient decision-making and automation..</p>
         </div>
     </div>
 </body>
 </html>
+
+
+   
+
+# Healthcare.github.io
+## Portfolio
+
+### Hello, I'm [Praveen Palkar]👋
+
+I am passionate about technology and problem-solving. Here's a glimpse of my work:
+
+## 🛠 Projects
+- *Project 1:
+- Project: Patient Symptom Analysis and Self Diagnosis 
+
+1st Module: Ambiguous Symptom Entry
+Patients describe their symptoms using natural language, where the system processes partial or unclear inputs to identify possible symptoms using advanced matching algorithms (e.g., substring or KMP).
+
+2nd Module: Limited Medical Awareness
+Based on the identified symptoms, the system asks targeted yes/no questions to narrow down possibilities and predict the most likely disease using decision analysis techniques.
+
+3rd Module: Shortest Path to Medical Facility
+Once a disease is identified, the system calculates the shortest path to the nearest medical facility using graph-based algorithms like Dijkstra's for quick access to care.
+
+4th Module: Prescription and Precaution
+After confirming the disease, the system provides a tailored prescription, lifestyle precautions, and advice, ensuring the patient takes immediate steps for recovery.
+  
+
+
+
+## 🚀 Skills
+- C++, Python, JavaScript,C,HTML
+- Data Structures and Algorithms
+- Web Development (DBMS)
+
+## 🌐 Find Me Online
+- [GitHub](https://github.com/Srujan-2)
+
+## Portfolio Topic : Waste Management and Recycling Automation
+
+<dl>
+<dt>Course Name:DAA LAB</dt>
+<dd>Data Structure And Algorithmic </dd>
+<dt>Course Code:24ECSP205</dt>
+<dd>Course Code Placeholder</dd>
+<dt>Name</dt>
+<dd>Praveen Palkar</dd>
+<dt>SRN</dt>
+<dd>Your SRN:02fe23bcs182</dd>
+<dt>Course Instructor:Prof. Vaishali Y. Parab and Ms.Manasi N</dt>
+<dd>Instructor Name Placeholder:</dd>
+<dt>University</dt>
+<dd>Your University Name:KLE TECHNOLOGICAL UNIVERSITY</dd>
+<dt>Waste Management and Recycling Automation/COMPUTER SCIENCE</dt>
+<dd>BE </dd>
+</dl>
+
+
+<br> 
+> “The only way to do great work is to love what you do.” – Steve Jobs
+>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+</head>
+<body>
+    <div class="container">
+        <a href="about.md" style="display: block; text-align: center; font-size: 1.5em; color: #3498db;">[About Me]</a>
+        <h1>About Me</h1>
+        <div class="about-text">
+            <p>Hey, this is me!</p>
+            <p>Major of <span class="highlight">Computer Science</span> at KLE TECH!</p>
+        </div>
+    </div>
+</body>
+</html>       
