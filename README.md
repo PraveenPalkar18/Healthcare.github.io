@@ -19,7 +19,7 @@
 
 <body>
     <div class="container">
-        <img src="wastemag.png" alt="Patient Symptom Analysis and Self Diagnosis ">
+        <img src="Healthcare.png" alt="Patient Symptom Analysis and Self Diagnosis ">
         <div class="description">
             <h2>(need too write ).</p>
         </div>
