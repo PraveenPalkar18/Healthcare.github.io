@@ -1,46 +1,50 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-   
+    <title>Patient Symptom Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .project-section {
+            background-color: #f4f4f4;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .project-section h2 {
+            color: #2c3e50;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #e74c3c;
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to My Project</h1>
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<body>
     <div class="container">
-        <img src="Healthcare.png" alt="Patient Symptom Analysis and Self Diagnosis ">
-        <div class="description">
-            <h2>(need too write ).</p>
+        <h1>Welcome to My Project</h1>
+        <img src="Healthcare.png" alt="Patient Symptom Analysis and Self Diagnosis" style="width: 100%; height: auto; border-radius: 5px;">
+
+        <div class="project-section">
+            <h2>Patient Symptom Analysis</h2>
+            <p>This project focuses on enhancing healthcare accessibility through advanced symptom analysis and diagnosis. It is divided into four main modules:</p>
+            <ol>
+                <li><span class="highlight">Ambiguous Symptom Entry:</span> Patients describe their symptoms, and the system processes partial or unclear inputs using advanced matching algorithms to identify possible symptoms.</li>
+                <li><span class="highlight">Limited Medical Awareness:</span> The system uses a series of yes/no questions to narrow down the symptoms and predict the disease with targeted decision-making techniques.</li>
+                <li><span class="highlight">Shortest Path to Medical Facility:</span> Once the disease is identified, the system calculates the shortest path to the nearest medical facility using algorithms like Dijkstra’s for efficient navigation.</li>
+                <li><span class="highlight">Prescription and Precaution:</span> After confirming the disease, the system provides a detailed prescription and suggested precautions tailored to the patient's condition.</li>
+            </ol>
+            <p>This project leverages data structures, algorithms, and decision-making techniques to assist patients in accessing timely and accurate healthcare support.</p>
         </div>
     </div>
-</body>
-</html>
-
-
-   
-
-# Healthcare.github.io
-## Portfolio
-
-### Hello, I'm [Praveen Palkar]👋
-
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
-
-## 🛠 Projects
-- *Project 1: 
-  
-
 
 
 ## 🚀 Skills
@@ -69,7 +73,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Waste Management and Recycling Automation/COMPUTER SCIENCE</dt>
 <dd>BE </dd>
 </dl>
-
+</body>
+</html>
 
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
