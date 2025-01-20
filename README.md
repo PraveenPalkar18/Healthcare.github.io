@@ -6,7 +6,7 @@
 ## Patient Symptom Analysis and Self diagnosis Project 
  Project: Patient Symptom Analysis and Self Diagnosis 
 
- #view code 
+ ##view code 
 You can view the complete code for the project here :
 [View my code](Project1.cpp)
 
