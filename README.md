@@ -6,9 +6,6 @@
 ## Patient Symptom Analysis and Self diagnosis Project 
  Project: Patient Symptom Analysis and Self Diagnosis 
 
- ##view code 
-You can view the complete code for the project here :
-[View my code](Project1.cpp)
 
 1st Module: Ambiguous Symptom Entry
 Patients describe their symptoms using natural language, where the system processes partial or unclear inputs to identify possible symptoms using advanced matching algorithms (e.g., levenstindistance  or KMP).
@@ -35,6 +32,10 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## 🛠 Projects
 - Project 1: The Patient Symptom Analysis and Self Diagnosis system is a comprehensive tool designed to enhance the healthcare experience for individuals. It intelligently processes vague or unclear symptom inputs, narrows down diagnoses through targeted questions, ensures quick access to medical facilities, and provides personalized treatment recommendations. With these four integrated modules, the system aims to provide timely and accurate healthcare guidance, empowering patients to make informed decisions while seeking medical attention.
 
+ ##view code
+ 
+You can view the complete code for the project here :
+[View my code](Project1.cpp)
 
 
 ## 🚀 Skills
